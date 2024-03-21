@@ -1,0 +1,1820 @@
+repo_name: caseyspaulding/survey-creator
+report_id: 5e6a5225de52328ddf1c718dd1a2dbb4
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-21T13:29:04+00:00'
+requested_by: dmitry-kurmanov
+provider: github
+branch: master
+detected_tools_count: 130
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/caseyspaulding/survey-creator
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/caseyspaulding/survey-creator
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/example/angular-ui/package.json
+  detection_source: packages/survey-creator-angular/example/angular-ui/package.json
+  last_updated_by: Andrew
+  last_updated_on: 2022-09-06 14:37:17.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-12-15 08:10:48.000000000 Z
+- name: Knockout
+  description: Create rich, responsive UIs with JavaScript
+  website_url: http://knockoutjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1997/logo_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/example/angular-ui/package.json
+  detection_source: packages/survey-creator-angular/example/angular-ui/package.json
+  last_updated_by: Andrew
+  last_updated_on: 2022-09-06 14:37:17.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Andrew
+  last_updated_on: 2022-09-06 14:37:17.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: novikov82
+  last_updated_on: 2022-03-25 14:14:45.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 6.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: AndrewTelnov
+  last_updated_on: 2015-12-22 07:23:27.000000000 Z
+- name: Enzyme
+  description: JavaScript Testing utilities for React, by Airbnb
+  website_url: https://enzymejs.github.io/enzyme/
+  version: 3.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/4488/default_87e6ca3fa146a959af95ccf3df1ec550eb434129.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/.github/workflows/tagged-release.yml
+  detection_source: ".github/workflows/tagged-release.yml"
+  last_updated_by: Dmitry Kurmanov
+  last_updated_on: 2021-05-19 14:01:00.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 4.1.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 26.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: Puppeteer
+  description: Headless Chrome Node API
+  website_url: https://github.com/GoogleChrome/puppeteer
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7553/puppeteer.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: TestCafe
+  description: A Node.js tool to automate end-to-end web testing
+  website_url: https://devexpress.github.io/testcafe/
+  version: 1.18.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/7532/W2FwS-Ry_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Dmitriy Kurmanov
+  last_updated_on: 2021-12-07 08:55:21.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.43.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator/package.json
+  detection_source: packages/survey-creator/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: TSV
+  last_updated_on: 2022-10-26 13:14:33.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator
+  detection_source: Repo Metadata
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Dmitriy Kurmanov
+  last_updated_on: 2021-10-26 09:07:25.000000000 Z
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 12.2.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2023-02-20 07:51:01.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@angular/cdk"
+  description: Angular Material Component Development Kit
+  package_url: https://www.npmjs.com/@angular/cdk
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16358/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 12.2.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/example/angular-ui/package.json
+  detection_source: packages/survey-creator-angular/example/angular-ui/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.11.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: "@storybook/addon-a11y"
+  description: A11y addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-a11y
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17117/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: dmitrykurmanov
+  last_updated_on: 2022-06-29 14:21:32.000000000 Z
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: "@storybook/addon-backgrounds"
+  description: A storybook addon to show different backgrounds for your preview
+  package_url: https://www.npmjs.com/@storybook/addon-backgrounds
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17841/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: "@storybook/addon-docs"
+  description: Superior documentation for your components
+  package_url: https://www.npmjs.com/@storybook/addon-docs
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17835/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: "@storybook/addon-knobs"
+  description: Storybook Addon Prop Editor Component
+  package_url: https://www.npmjs.com/@storybook/addon-knobs
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16279/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: "@storybook/addon-storyshots"
+  description: StoryShots is a Jest Snapshot Testing Addon for Storybook
+  package_url: https://www.npmjs.com/@storybook/addon-storyshots
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17155/default_fbe883dfc6d978f82179fa11bdf634af1b6751fa.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-react/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: "@storybook/addon-storysource"
+  description: Stories addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-storysource
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16977/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: "@storybook/addon-viewport"
+  description: Storybook addon to change the viewport size to mobile
+  package_url: https://www.npmjs.com/@storybook/addon-viewport
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16893/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: tsv2013
+  last_updated_on: 2022-07-05 06:51:45.000000000 Z
+- name: "@storybook/addons"
+  description: Storybook addons store
+  package_url: https://www.npmjs.com/@storybook/addons
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16200/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 6.0.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@types/glob"
+  description: TypeScript definitions for Glob
+  package_url: https://www.npmjs.com/@types/glob
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 3.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 23.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: "@types/jquery"
+  description: TypeScript definitions for jQuery
+  package_url: https://www.npmjs.com/@types/jquery
+  version: 3.3.29
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16363/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-12-01 08:10:14.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.186
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2022-11-01 10:55:54.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 16.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/example/angular-ui/package.json
+  detection_source: packages/survey-creator-angular/example/angular-ui/package.json
+  last_updated_by: Andrew
+  last_updated_on: 2022-09-06 14:37:17.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-react/package.json
+  detection_source: packages/survey-creator-react/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-12-01 08:10:14.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-react/package.json
+  detection_source: packages/survey-creator-react/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-12-01 08:10:14.000000000 Z
+- name: "@types/react-test-renderer"
+  description: TypeScript definitions for react-test-renderer
+  package_url: https://www.npmjs.com/@types/react-test-renderer
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16593/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-react/package.json
+  detection_source: packages/survey-creator-react/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-12-01 08:10:14.000000000 Z
+- name: "@types/webpack"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack
+  version: 4.41.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16215/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: "@types/webpack-env"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack-env
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16614/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.41.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2022-11-01 10:55:54.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.41.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2022-11-01 10:55:54.000000000 Z
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 4.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in Ajv
+    cve_id: CVE-2020-15366
+    cve_url: https://github.com/advisories/GHSA-v88g-cgmw-v5xw
+    detected_date: Feb 11
+    severity: moderate
+    first_patched: 6.12.3
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Dmitriy Kurmanov
+  last_updated_on: 2021-05-27 13:31:08.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 6.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: novikov82
+  last_updated_on: 2022-03-25 14:14:45.000000000 Z
+- name: babel-preset-latest
+  description: Babel preset including es2015+
+  package_url: https://www.npmjs.com/babel-preset-latest
+  version: 6.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16101/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2021-08-25 13:49:16.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: colors
+  description: Get colors in your node.js console
+  package_url: https://www.npmjs.com/colors
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: package.json
+  last_updated_by: TSV
+  last_updated_on: 2022-10-26 13:14:33.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Dmitry Kurmanov
+  last_updated_on: 2022-11-14 11:34:14.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: dts-bundle
+  description: Export TypeScript .d.ts files as an external module definition
+  package_url: https://www.npmjs.com/dts-bundle
+  version: 0.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17298/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: enzyme-to-json
+  description: Convert enzyme wrapper to a format compatible with Jest snapshot
+  package_url: https://www.npmjs.com/enzyme-to-json
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16252/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.25.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: TSV
+  last_updated_on: 2022-10-26 13:14:33.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 0.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Dmitry Kurmanov
+  last_updated_on: 2022-12-08 07:29:33.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: global
+  description: Require global variables
+  package_url: https://www.npmjs.com/global
+  version: 4.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16772/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: html-loader
+  description: Html loader module for webpack
+  package_url: https://www.npmjs.com/html-loader
+  version: 0.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16055/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: novikov82
+  last_updated_on: 2022-03-25 14:14:45.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 14.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2023-01-05 12:47:14.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Dmitriy Kurmanov
+  last_updated_on: 2021-10-26 09:07:25.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 3.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2023-02-20 07:51:01.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: karma-coverage
+  description: A Karma plugin. Generate code coverage
+  package_url: https://www.npmjs.com/karma-coverage
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: karma-html2js-preprocessor
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-html2js-preprocessor
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17231/default_f32012d99e98300650172d76a20c554617f1031d.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: karma-junit-reporter
+  description: A Karma plugin. Report results in junit xml format
+  package_url: https://www.npmjs.com/karma-junit-reporter
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16695/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator/package.json
+  detection_source: packages/survey-creator/package.json
+  last_updated_by: Dmitriy
+  last_updated_on: 2021-10-13 06:51:24.000000000 Z
+- name: karma-qunit
+  description: A Karma plugin. Adapter for QUnit testing framework
+  package_url: https://www.npmjs.com/karma-qunit
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17515/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator/package.json
+  detection_source: packages/survey-creator/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 11:09:27.000000000 Z
+- name: karma-sourcemap-loader
+  description: Karma plugin that locates and loads existing javascript source map
+    files
+  package_url: https://www.npmjs.com/karma-sourcemap-loader
+  version: 0.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16011/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator/package.json
+  detection_source: packages/survey-creator/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2022-05-26 09:03:24.000000000 Z
+- name: karma-webpack
+  description: Use webpack with karma
+  package_url: https://www.npmjs.com/karma-webpack
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15955/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: live-server
+  description: Simple development http server with live reload capability
+  package_url: https://www.npmjs.com/live-server
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16905/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Aleksey Novikov
+  last_updated_on: 2022-09-20 08:29:10.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 0.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: ng-packagr
+  description: Compile and package a TypeScript library to Angular Package Format
+  package_url: https://www.npmjs.com/ng-packagr
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16114/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: Dmitry
+  last_updated_on: 2023-02-17 13:17:31.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Andrew Telnov
+  last_updated_on: 2022-03-15 12:33:09.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+- name: node-uuid
+  description: Rigorous implementation of RFC4122
+  package_url: https://www.npmjs.com/node-uuid
+  version: 1.4.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16142/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: npmlog
+  description: Logger for npm
+  package_url: https://www.npmjs.com/npmlog
+  version: 4.1.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16667/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: papaparse
+  description: Fast and powerful CSV parser for the browser that supports web workers
+    and streaming large files
+  package_url: https://www.npmjs.com/papaparse
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17945/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: pretty-format
+  description: Stringify any JavaScript value
+  package_url: https://www.npmjs.com/pretty-format
+  version: 26.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18252/default_d7af0607656aecc036ca87d563e99619deb7cf84.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: qunitjs
+  description: An easy-to-use JavaScript Unit Testing framework
+  package_url: https://www.npmjs.com/qunitjs
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16684/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 16.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: read-pkg-up
+  description: Read the closest package.json file
+  package_url: https://www.npmjs.com/read-pkg-up
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16895/default_3772c3833c88109974c994fa9f9548ac8ad59f11.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-storyshot-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: regenerator-runtime
+  description: Runtime for Regenerator-compiled generator and async functions
+  package_url: https://www.npmjs.com/regenerator-runtime
+  version: 0.13.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16148/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/storybook-knockout/package.json
+  detection_source: packages/survey-creator-knockout/storybook-knockout/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2020-10-29 09:02:14.000000000 Z
+- name: replace-in-file
+  description: A simple utility to quickly replace text in one or more files
+  package_url: https://www.npmjs.com/replace-in-file
+  version: 3.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16434/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Dmitry Kurmanov
+  last_updated_on: 2022-12-08 07:29:33.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.5.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: OlgaLarina
+  last_updated_on: 2021-09-13 11:09:15.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: novikov82
+  last_updated_on: 2022-03-25 14:14:45.000000000 Z
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.8.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: sortablejs
+  description: JavaScript library for reorderable drag-and-drop lists on modern browsers
+    and touch devices
+  package_url: https://www.npmjs.com/sortablejs
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17481/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: mviorno
+  last_updated_on: 2021-02-05 08:36:17.000000000 Z
+- name: standard-version
+  description: Replacement for `npm version` with automatic CHANGELOG generation
+  package_url: https://www.npmjs.com/standard-version
+  version: 8.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16053/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: dmitrykurmanov
+  last_updated_on: 2023-03-07 07:52:46.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Dmitry Kurmanov
+  last_updated_on: 2022-11-14 11:34:14.000000000 Z
+- name: svg-inline-loader
+  description: Cleans up and inlines your SVG files into Webpack module
+  package_url: https://www.npmjs.com/svg-inline-loader
+  version: 0.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17354/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: TSV
+  last_updated_on: 2022-11-03 07:20:31.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 26.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: T_S_V
+  last_updated_on: 2021-08-25 13:49:16.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.0.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: novikov82
+  last_updated_on: 2022-03-25 14:14:45.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Andrew Telnov
+  last_updated_on: 2022-03-15 12:33:09.000000000 Z
+- name: tsconfig-paths-webpack-plugin
+  description: Load modules according to tsconfig paths in webpack
+  package_url: https://www.npmjs.com/tsconfig-paths-webpack-plugin
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17311/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-knockout/package.json
+  detection_source: packages/survey-creator-knockout/package.json
+  last_updated_by: Dmitry Kuzin
+  last_updated_on: 2022-04-06 06:18:58.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.3.0
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/example/angular-ui/package.json
+  detection_source: packages/survey-creator-angular/example/angular-ui/package.json
+  last_updated_by: Andrew
+  last_updated_on: 2022-09-06 14:37:17.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 0.5.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: novikov82
+  last_updated_on: 2022-03-25 14:14:45.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Dmitry Kurmanov
+  last_updated_on: 2022-11-14 11:34:14.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Dmitry Kurmanov
+  last_updated_on: 2022-11-14 11:34:14.000000000 Z
+- name: webpack-merge
+  description: Variant of merge that's useful for webpack configuration
+  package_url: https://www.npmjs.com/webpack-merge
+  version: 5.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-core/package.json
+  detection_source: packages/survey-creator-core/package.json
+  last_updated_by: Dmitry Kurmanov
+  last_updated_on: 2022-12-08 07:29:33.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/caseyspaulding/survey-creator/blob/master/packages/survey-creator-angular/package.json
+  detection_source: packages/survey-creator-angular/package.json
+  last_updated_by: tsv2013
+  last_updated_on: 2022-10-06 14:34:52.000000000 Z
